@@ -1,4 +1,4 @@
-# Customer-Lifetime-Value-Prediction mod
+# Customer-Lifetime-Value-Prediction model
 
 ## 📌 Project Overview
 
